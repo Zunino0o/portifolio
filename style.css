@@ -1,0 +1,19 @@
+<style>
+        body{
+            font-size: 16px;
+        }
+        h1 {
+            font-size: 2em;
+            color: orange;
+            font-family: sans-serif;
+        }
+        p {
+            font-weight: 600;
+            font-size: 3em;
+        }
+        .muda-cor-de-fundo {
+            background-color: rgb(69, 420, 0)
+        }
+
+
+    </style>
